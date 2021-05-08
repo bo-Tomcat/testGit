@@ -5,5 +5,6 @@ public class happy {
 	System.out.println("test..hah");
 	
 	System.out.println("test..hah");
+	System.out.println("test..hah");
 }
 }
